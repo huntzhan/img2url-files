@@ -1,1 +1,1 @@
-# img2url-repo
+Hosting files genereated by [img2url](https://github.com/huntzhan/img2url).
